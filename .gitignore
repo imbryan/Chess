@@ -1,0 +1,9 @@
+/.classpath
+/.idea/.gitignore
+/.project
+/.idea/misc.xml
+/.idea/modules.xml
+/.settings/org.eclipse.jdt.core.prefs
+/.idea/vcs.xml
+/Chess.iml
+/bin/*
